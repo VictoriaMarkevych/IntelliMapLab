@@ -1,4 +1,4 @@
-package com.intellias.task_volodymyr;
+package com.intellias.hackathon;
 
 import java.util.List;
 
